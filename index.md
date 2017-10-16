@@ -1,5 +1,3 @@
-## George Violaris
-
 I am a programmer, systems engineer and computers & network security specialist from Nicosia, Cyprus.
 
 I am experienced in the design and development of secure web applications and web services. I work with Java, Go & Python and an array of databases (MySQL, PostgreSQL, MSSQL, MongoDB) as well as SOAP, JSON-RPC and REST web service protocols.
