@@ -1,4 +1,6 @@
 ## Simple blockchain logic in Go
+On Mon, 16 Oct 2017 17:40 +0300
+george <violarisgeorge@gmail.com> wrote:
 
 I've created a small Go program which demonstrates how blocks are added to a blockchain. It can help someone learn how the data structure is created and how each block is linked to the next.
 
