@@ -9,12 +9,15 @@ Additionally, in the past two years I have familiarized myself with blockchain t
 Please use my [public key](https://keybase.io/violarisgeorge/pgp_keys.asc?fingerprint=5d7a2f741dfa44befb31ceca111a985e0e1d5e65) to contact me via email or find me on [Keybase](https://keybase.io/violarisgeorge) to view my other social network identities.
 
 **Education: ** 
+
 BSc Computer Science, MSc Computer Network Security
 
 **Interests: ** 
+
 Programming, security, distributed systems, grid computing, cryptography, encryption, open-source, futurism, sci-fi, bitcoin, zcash, cryptocurrencies.
 
 **I work with: ** 
+
 Go, Java & Python
 
 **Publications:**
