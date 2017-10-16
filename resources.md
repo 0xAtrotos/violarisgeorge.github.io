@@ -42,6 +42,7 @@ Link digest curated for your reading pleasure.
 - [Jeff Atwood's blog](https://blog.codinghorror.com/)
 
 ### Forums
-- [Bitcoin Subreddit](https://reddit.com/r/bitcoin)[BTC Subreddit](https://reddit.com/r/btc)
+- [Bitcoin Subreddit](https://reddit.com/r/bitcoin)
+- [BTC Subreddit](https://reddit.com/r/btc)
 - [Bitcointalk.org - Forum started by Satoshi](https://bitcointalk.org)
 - [BTC Warriors](http://btcwarriors.com/)
