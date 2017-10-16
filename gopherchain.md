@@ -2,7 +2,7 @@
 
 I've created a small Go program which demonstrates how blocks are added to a blockchain. It can help someone learn how the data structure is created and how each block is linked to the next.
 
-If you've got a nice IDE it might go ahead and create the imports for you. Here the are to import them yourself. We'll need the crypto/sha256 package to feed it with strings and it will output a SHA256 hash for us. Keep in mind that when it comes to hashing, it is best to choose the newer cryptographic hash functions and avoid the older ones. This is because md4, md5 and SHA1 have all been broken. It is now relatively easy to manually create collisions for the three mentioned here. 
+If you've got a nice IDE it might go ahead and create the imports for you. Here they are to import them yourself. We'll need the crypto/sha256 package to feed it with strings and it will output a SHA256 hash for us. Keep in mind that when it comes to hashing, it is best to choose the newer cryptographic hash functions and avoid the older ones. This is because md4, md5 and SHA1 have all been broken. It is now relatively easy to manually create collisions for the three mentioned here. 
 
 <img src="https://violarisgeorge.files.wordpress.com/2017/10/wp1.png" alt="wp1" width="245" height="202" class="alignnone size-full wp-image-88238" />
 
