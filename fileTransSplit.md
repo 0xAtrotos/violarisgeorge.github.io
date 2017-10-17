@@ -1,5 +1,7 @@
 ## Filesplit with financial balancing
 
+On Mon, 17 Oct 2017 15:40 +0300 george violarisgeorge@gmail.com wrote:
+
 Split file with financial transactions into multiple files while balancing each file at 0 - In some financial systems importing of CSV files is limited to a number of lines (i.e. in SAP it is limited to 999 lines). This script breaks a file containing columns of financial transactions and uses an index to mark if a transaction is debit or credit, therefore allowing to split into any number of lines we need for each file while also keeping the financial transactions balanced for each file (this is useful for systems that you are forced to import the files one by one - unless we balance each and every file, we may create reconciliation issues in the system's financial processes)
 
 ** IMPORTANT: VERIFY THIS BY EXPLICIT TESTING ON YOUR TEST DATA AND IMPORT THE SPLIT FILES INTO A TEST ENVIRONMENT BEFORE IMPORTING INTO PRODUCTION
