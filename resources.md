@@ -11,6 +11,7 @@ Link digest curated for your reading pleasure.
 
 ### Cryptography
 - [Principles of Modern Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_2.pdf) - Dan Boneh, Victor Shoup
+- [New Directions in Cryptography](https://www-ee.stanford.edu/~hellman/publications/24.pdf) - Whitfield Diffie, Martin Hellman
 - [A digital signature based on a conventional encryption function](https://www.dropbox.com/s/uwsiungepm7xbjj/merkle%5B1%5D.pdf?dl=0)
 - [Cryptographic Apparatus and Method (Diffie-Hellman Key Exchange)](https://docs.google.com/viewer?url=patentimages.storage.googleapis.com/pdfs/US4200770.pdf) - Diffie, Hellman, Merkle
 - [Cryptographic Communications System and Method (RSA)](https://docs.google.com/viewer?url=patentimages.storage.googleapis.com/pdfs/US4405829.pdf)- Rivest, Shamir, Adleman
