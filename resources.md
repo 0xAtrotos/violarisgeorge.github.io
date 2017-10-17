@@ -18,6 +18,12 @@ Link digest curated for your reading pleasure.
 - [An Efficient Protocol for Authenticated Key Agreement](http://cacr.uwaterloo.ca/techreports/1998/corr98-05.pdf) (Elliptic-Curve Diffie-Hellman, ECDH) - Law, Qu, Menezes, Solinas, Vanstone
 - [The Elliptic Curve Digital Signature Algorithm](http://residentrf.ucoz.ru/_ld/0/34_Digital_Signatu.pdf) - Johnson, Menezes
 
+### Cypherpunks
+- [Underground](https://drive.google.com/open?id=0B-SzhzqoXgcPTHJ5MXhGVVhKZlU) - Suelette Dreyfus, Julian Assange
+- [Cyphernomicon](https://drive.google.com/open?id=0B-SzhzqoXgcPYXFzTjUtb0NzcGs) - Timothy C. May
+- [Cypherpunk Manifesto](https://drive.google.com/open?id=0B-SzhzqoXgcPYXFzTjUtb0NzcGs) - Eric Hughes
+- [The Cypherpunk Revolution](https://drive.google.com/open?id=0B-SzhzqoXgcPZzBTTTl2M3V4bzA) - Thomas Rid
+
 ### Programming
 - [Go Programming Language Specification](https://golang.org/ref/spec)
 - [C++ Bjarne Stroustrup's Homepage](http://www.stroustrup.com/C++.html)
