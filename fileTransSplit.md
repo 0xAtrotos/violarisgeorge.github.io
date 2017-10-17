@@ -1,4 +1,4 @@
-## Filesplit with financial balancing
+## Filesplit with Financial Transaction Balancing
 
 On Mon, 17 Oct 2017 15:40 +0300 george violarisgeorge@gmail.com wrote:
 
