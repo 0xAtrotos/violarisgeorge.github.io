@@ -2,8 +2,8 @@
 On Tue, 17 Oct 2017 17:40 +0300
 george <violarisgeorge@gmail.com> wrote:
 
-> Edit (On Tue 17 Oct 2017 20:03 +0300): I have changed the below proof of work algorithm function, it is now included in the nextBlock() function as the new block and proof of work should happen at the same time, no need for additional method calls.
-<script src="https://gist.github.com/violarisgeorge/5eb26a6ec028798b5ad43c9a9edad6ac.js"</script>
+> Edit (On Tue 17 Oct 2017 20:03 +0300): I have changed the below proof of work algorithm function, it is now included in the nextBlock() function as the new block and proof of work should happen at the same time, no need for additional method calls. The new code is:
+<script src="https://gist.github.com/violarisgeorge/5eb26a6ec028798b5ad43c9a9edad6ac.js"></script>
 
 
 I've appended the Go code for Gopherchain to include a pseudo-proof of work algorithm. You can see the following gist to understand more or less what it's doing:
