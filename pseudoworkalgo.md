@@ -2,7 +2,7 @@
 On Tue, 17 Oct 2017 17:40 +0300
 george <violarisgeorge@gmail.com> wrote:
 
-I've appended the Go code for Gopherchain to include a pseudo-roof of work algorithm. You can see the following gist to understand more or less what it's doing:
+I've appended the Go code for Gopherchain to include a pseudo-proof of work algorithm. You can see the following gist to understand more or less what it's doing:
 
 <script src="https://gist.github.com/violarisgeorge/c7ef60b8b40977e9a41efd4b84d1c536.js"></script>
 
