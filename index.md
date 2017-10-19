@@ -18,9 +18,4 @@ Programming, security, distributed systems, grid computing, cryptography, encryp
 **I work with**:
 Go, Java & Python
 
-**Publications**:
-- Violaris C. G., Mavromoustakis X. C. “On the Performance Evaluation and Analysis of the Hybridised Bittorrent Protocol with Partial Mobility Characteristics” Proceedings of The Second International Conference on Advances in P2P Systems (AP2PS 2010), October 25-30, Florence, Italy.
-- Charalambous M., Mavromoustakis X. C., Violaris C. G., and Muneer Bani Yassein. “On the Mobility Scenario Implementation Using a Graphical P2P Discrete Event Simulator for the Bittorrent Protocol”.  Multi-Science Publishing, Journal of Algorithms and Computational Technology, Volume 7, Number 4, December 2013
-- “Out-of-Band Authentication Model with Hashcash Brute-Force Prevention”. IEEE – The 6th International Symposium on Cyberspace Safety and Security. (CSS 2014) Paris, France, August 20 – 22, 2014. Violaris George, Dionysiou Ioanna
-
 You can also find me on: [LinkedIn](https://www.linkedin.com/in/georgeviolaris/ "George Violaris LinkedIn Profile"), [Twitter](https://twitter.com/violarisgeorge), [Github](https://github.com/violarisgeorge)
