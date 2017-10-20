@@ -18,4 +18,4 @@ Programming, security, distributed systems, grid computing, cryptography, encryp
 **I work with**:
 Go, Java & Python
 
-You can also find me on: [LinkedIn](https://www.linkedin.com/in/georgeviolaris/ "George Violaris LinkedIn Profile"), [Twitter](https://twitter.com/violarisgeorge), [Github](https://github.com/violarisgeorge)
+You can also find me on: [LinkedIn](https://www.linkedin.com/in/georgeviolaris/ "George Violaris LinkedIn Profile"), [Twitter](https://twitter.com/violarisgeorge), [Github](https://github.com/violarisgeorge) and [Stack Overflow](https://stackoverflow.com/users/162432/george-violaris)
