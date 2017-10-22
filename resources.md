@@ -2,6 +2,9 @@
 
 Link digest curated for your reading pleasure.
 
+### Interesting findings
+- [How to make a mint: The cryptography of anonymous electronic cash](nsamint.html) - (NSA document)
+
 ### Bitcoin
 - [The Bitcoin White Paper](https://bitcoin.org/bitcoin.pdf) - Satoshi Nakamoto
 - [Mastering Bitcoin](https://unglueit-files.s3.amazonaws.com/ebf/05db7df4f31840f0a873d6ea14dcc28d.pdf) - Andreas Antonopoulos
