@@ -1,16 +1,16 @@
 ## About me
-I am a programmer, systems engineer and computers & network security specialist from Nicosia, Cyprus.
 
-I am experienced in the design and development of secure web applications and web services. I work with Java, Go & Python and an array of databases (MySQL, PostgreSQL, MSSQL, MongoDB) as well as SOAP, JSON-RPC and REST web service protocols.
+I am a programmer, systems engineer and security specialist.
 
-Over the years I’ve worked extensively in Microsoft technologies (MSSQL, Sharepoint, Exchange Server, Active Directory), and Linux environments (RedHat, CentOS and Ubuntu). I have been involved in implementing and maintaining networks and developing security policies and mechanisms to protect the networks and data of companies from vulnerabilities and other kinds of potential threats that can compromise computer security and data integrity.
+I am experienced in the design and development of secure software and web services. I work with Java, Go & Python and an array of databases["MySQL", "PostgreSQL", "MSSQL", "MongoDB"] as well as SOAP, JSON-RPC and REST web service protocols. I’ve also worked extensively in Microsoft technologies (MSSQL, Sharepoint, Exchange Server, Active Directory), and Linux environments (RedHat, CentOS and Ubuntu). I have been involved in implementing and maintaining networks and developing security policies and mechanisms to protect the networks and data of companies from vulnerabilities and other kinds of potential threats that can compromise computer security and data integrity.
 
-Additionally, in the past two years I have familiarized myself with blockchain technologies and cryptocurrency protocols such as Bitcoin, CryptoNote and Nxt.
+My research interests include distributed systems, P2P networks, brute force and automated attack preventions, trustless systems and zero-knowledge proof protocols.
 
 Please use my [public key](https://keybase.io/violarisgeorge/pgp_keys.asc?fingerprint=5d7a2f741dfa44befb31ceca111a985e0e1d5e65) to contact me via [email](mailto:violarisgeorge@gmail.com) or find me on [Keybase](https://keybase.io/violarisgeorge) to view my other social network identities.
 
 **Education**:  
-BSc Computer Science, MSc Computer Network Security
+- BSc Computer Science (University of Nicosia)
+- MSc Computer Network Security (Middlesex University)
 
 **Interests**:
 Programming, security, distributed systems, grid computing, cryptography, encryption, open-source, futurism, sci-fi, bitcoin, zcash, cryptocurrencies.
