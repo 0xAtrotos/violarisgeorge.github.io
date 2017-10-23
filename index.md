@@ -19,3 +19,5 @@ Programming, security, distributed systems, grid computing, cryptography, encryp
 Go, Java & Python
 
 You can also find me on: [LinkedIn](https://www.linkedin.com/in/georgeviolaris/ "George Violaris LinkedIn Profile"), [Twitter](https://twitter.com/violarisgeorge), [Github](https://github.com/violarisgeorge) and [Stack Overflow](https://stackoverflow.com/users/162432/george-violaris)
+
+<a class="twitter-timeline" href="https://twitter.com/ViolarisGeorge?ref_src=twsrc%5Etfw">Tweets by ViolarisGeorge</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
