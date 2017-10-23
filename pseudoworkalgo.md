@@ -19,3 +19,6 @@ We also modify our main function loop to take into consideration that a new bloc
 <script src="https://gist.github.com/violarisgeorge/968322b7c3bd2ecfd068e08b4b4751db.js"></script>
 
 As mentioned above, we would normally check if the target requirements were met. For now, we'll just check if the doWork() function has announced if anything was found.
+
+
+> [Comments](https://github.com/violarisgeorge/violarisgeorge.github.io/issues/2)
