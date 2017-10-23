@@ -30,3 +30,27 @@ Download gopherchain.go from <a href="https://github.com/violarisgeorge/gopherch
 
 
 > [Comments](https://github.com/violarisgeorge/violarisgeorge.github.io/issues/1)
+<script type="text/javascript" src="http://datejs.googlecode.com/svn/trunk/build/date-en-US.js"></script>
+
+
+<script type="text/javascript"> #
+
+
+
+  function loadComments(data) {
+    for (var i=0; i<data.length; i++) {
+      var cuser = data[i].user.login;
+      var cuserlink = "https://www.github.com/" + data[i].user.login;
+      var clink = "https://github.com/izuzak/izuzak.github.com/issues/12#issuecomment-" + data[i].url.substring(data[i].url.lastIndexOf("/")+1);
+      var cbody = data[i].body_html;
+      var cavatarlink = data[i].user.avatar_url;
+      var cdate = Date.parse(data[i].created_at).toString("yyyy-MM-dd HH:mm:ss"); #
+
+
+
+  <span class="nx">$</span><span class="p">(</span><span class="s2">"#comments"</span><span class="p">).</span><span class="nx">append</span><span class="p">(</span><span class="s2">"&lt;div class='comment'&gt;&lt;div class='commentheader'&gt;&lt;div class='commentgravatar'&gt;"</span> <span class="o">+</span> <span class="s1">'&lt;img src="'</span> <span class="o">+</span> <span class="nx">cavatarlink</span> <span class="o">+</span> <span class="s1">'" alt="" width="20" height="20"&gt;'</span> <span class="o">+</span> <span class="s2">"&lt;/div&gt;&lt;a class='commentuser' href=\""</span><span class="o">+</span> <span class="nx">cuserlink</span> <span class="o">+</span> <span class="s2">"\"&gt;"</span> <span class="o">+</span> <span class="nx">cuser</span> <span class="o">+</span> <span class="s2">"&lt;/a&gt;&lt;a class='commentdate' href=\""</span> <span class="o">+</span> <span class="nx">clink</span> <span class="o">+</span> <span class="s2">"\"&gt;"</span> <span class="o">+</span> <span class="nx">cdate</span> <span class="o">+</span> <span class="s2">"&lt;/a&gt;&lt;/div&gt;&lt;div class='commentbody'&gt;"</span> <span class="o">+</span> <span class="nx">cbody</span> <span class="o">+</span> <span class="s2">"&lt;/div&gt;&lt;/div&gt;"</span><span class="p">);</span>
+<span class="p">}</span>
+
+
+  }
+</script>
