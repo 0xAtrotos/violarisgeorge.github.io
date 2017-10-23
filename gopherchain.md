@@ -27,3 +27,6 @@ In order to automate the blockchain generation process, I created a simple loop 
 <script src="https://gist.github.com/violarisgeorge/8db9b40a8cb707b166ea11f814fced77.js"></script>
 
 Download gopherchain.go from <a href="https://github.com/violarisgeorge/gopherchain/blob/master/gopherchain.go">Github</a> and play with the code to create different kinds of blocks.
+
+
+> [Comments](https://github.com/violarisgeorge/violarisgeorge.github.io/issues/1)
