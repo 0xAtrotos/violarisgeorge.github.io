@@ -1,4 +1,5 @@
 ## Simple blockchain logic in Go
+<a href="https://twitter.com/intent/tweet?screen_name=ViolarisGeorge&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-related="ViolarisGeorge" data-show-count="false">Tweet to @ViolarisGeorge</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 On Mon, 16 Oct 2017 17:40 +0300
 george <violarisgeorge@gmail.com> wrote:
 
@@ -30,4 +31,3 @@ Download gopherchain.go from <a href="https://github.com/violarisgeorge/gopherch
 
 
 > [Comments](https://github.com/violarisgeorge/violarisgeorge.github.io/issues/1)
-
