@@ -1,6 +1,6 @@
 ## About me
 
-![](233955.jpg)I am a programmer, systems engineer and security specialist. I grew up using a computer in my teenage years and reading about hackers and cypherpunks. Occasionally I'd pointlessly tinker in Basic and Pascal and try to install Linux distros with CDs or floppies from magazines. The online world changed for me when I discovered what backdoors were and used to amaze myself with Sub7 and NetBus.
+I am a programmer, systems engineer and security specialist. I grew up using a computer in my teenage years and reading about hackers and cypherpunks. Occasionally I'd pointlessly tinker in Basic and Pascal and try to install Linux distros with CDs or floppies from magazines. The online world changed for me when I discovered what backdoors were and used to amaze myself with Sub7 and NetBus.
 
 Professionally, I am experienced in the design and development of secure software and web services. I work with Java, Go & Python and an array of databases["MySQL", "PostgreSQL", "MSSQL", "MongoDB"] as well as SOAP, JSON-RPC and REST web service protocols. I’ve also worked extensively in Microsoft technologies (MSSQL, Sharepoint, Exchange Server, Active Directory), and Linux environments (RedHat, CentOS and Ubuntu). I have been involved in implementing and maintaining networks and developing security policies and mechanisms to protect organizations from vulnerabilities and other kinds of potential threats that can compromise computer security and data integrity.
 
