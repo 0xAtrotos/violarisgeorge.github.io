@@ -1,4 +1,5 @@
 ## A pseudo-proof of work algorithm for Gopherchain
+<a href="https://twitter.com/intent/tweet?screen_name=ViolarisGeorge&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-related="ViolarisGeorge" data-show-count="false">Tweet to @ViolarisGeorge</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 On Tue, 17 Oct 2017 17:40 +0300
 george <violarisgeorge@gmail.com> wrote:
 
@@ -22,5 +23,3 @@ As mentioned above, we would normally check if the target requirements were met.
 
 
 > [Comments](https://github.com/violarisgeorge/violarisgeorge.github.io/issues/2)
-
-<a href="https://twitter.com/intent/tweet?screen_name=ViolarisGeorge&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-related="ViolarisGeorge" data-show-count="false">Tweet to @ViolarisGeorge</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
