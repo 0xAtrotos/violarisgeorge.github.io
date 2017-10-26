@@ -1,8 +1,8 @@
 ## About me
 
-I am a systems and network security engineer. I grew up using a computer in my teenage years and reading about hackers and cypherpunks. Occasionally I'd pointlessly tinker in Basic and Pascal and try to install Linux distros with CDs or floppies from magazines. The online world changed for me when I discovered what backdoors were and used to amaze myself with Sub7 and NetBus. I like to program in Java, Go & Python and use an array of databases["MySQL", "PostgreSQL", "MSSQL", "MongoDB"] as well as SOAP, JSON-RPC and REST web service protocols.
+I am a systems and network security engineer. I grew up using a computer in my teenage years and reading about hackers and cypherpunks. Occasionally I'd pointlessly tinker in Basic and Pascal and try to install Linux distros with CDs or floppies from magazines. The online world changed for me when I discovered that the internet can seriously be messed with, and used to amaze myself with Sub7 and NetBus. I like to program in Java, Go & Python and use an array of databases["MySQL", "PostgreSQL", "MSSQL", "MongoDB"] as well as SOAP, JSON-RPC and REST web service protocols.
 
-Professionally, I work in Microsoft technologies (MSSQL, Sharepoint, Exchange Server, Active Directory), Linux systems (RedHat, CentOS and Ubuntu), and virtualization environments such as vmWare (vSphere, vCenter, Orchestrator) and Veeam. I have been involved in implementing and maintaining networks and developing security policies and mechanisms to protect organizations from vulnerabilities and other kinds of potential threats that can compromise computer security and data integrity. 
+Professionally, I install, maintain, update, operate, support and automate information systems. I provide technological solutions to make business procedures and insight more efficient and profitable. I work in Microsoft technologies (MSSQL, Sharepoint, Exchange Server, Active Directory), Linux systems (RedHat, CentOS and Ubuntu), and virtualization environments such as vmWare (vSphere, vCenter, Orchestrator) and Veeam for backup and replication. I am also involved in implementing and maintaining networks and developing security policies and mechanisms to protect organizations from vulnerabilities and other kinds of potential threats that can compromise computer security and data integrity. 
 
 My research interests include distributed systems, P2P networks, brute force and automated attack preventions, trustless systems and zero-knowledge proof protocols.
 
@@ -15,7 +15,7 @@ Please use my [public key](https://keybase.io/violarisgeorge/pgp_keys.asc?finger
 **Interests**:
 Programming, security, distributed systems, grid computing, cryptography, encryption, open-source, futurism, sci-fi, bitcoin, zcash, cryptocurrencies.
 
-**I work with**:
+**Programming Languages**:
 Go, Java & Python
 
 You can also find me on: [LinkedIn](https://www.linkedin.com/in/georgeviolaris/ "George Violaris LinkedIn Profile"), [Twitter](https://twitter.com/violarisgeorge), [Github](https://github.com/violarisgeorge) and [Stack Overflow](https://stackoverflow.com/users/162432/george-violaris)
