@@ -2,12 +2,6 @@
 
 [Read about.me](https://about.me/violarisgeorge)
 
-**Interests**:
-Programming, security, distributed systems, grid computing, cryptography, encryption, open-source, futurism, sci-fi, bitcoin, zcash, ripple, cryptocurrencies.
-
-**Programming Languages**:
-Go, Java & Python
-
 Please use my [public key](https://keybase.io/violarisgeorge/pgp_keys.asc?fingerprint=5d7a2f741dfa44befb31ceca111a985e0e1d5e65) to contact me via [email](mailto:violarisgeorge@gmail.com) or find me on [Keybase](https://keybase.io/violarisgeorge) to view my other social network identities.
 
 You can also find me on: [LinkedIn](https://www.linkedin.com/in/georgeviolaris/ "George Violaris LinkedIn Profile"), [Twitter](https://twitter.com/violarisgeorge), [Github](https://github.com/violarisgeorge) and [Stack Overflow](https://stackoverflow.com/users/162432/george-violaris)
