@@ -41,6 +41,8 @@ Link digest curated for your reading pleasure.
 - [Data Mining for Network Intrusion Detection:  How to Get Started. The MITRE Corporation.](https://drive.google.com/open?id=1TI02bncUIZvxReF_mZPv_yY_yyYLM4-f) - E. Bloedorn,  A. D. Christiansen,  W. Hill, C. Skorupka,  L. M. Talbot,  J. Tivel
 - [Network Intrusion Detection Systems - False Positive Reduction Through Anomaly Detection](https://drive.google.com/open?id=1J3Ke7vHXo-kPfilFSK0X02q2dwtrrRF9) - E. Zambon, D. Bolzoni
 - [Insertion, Evasion, and Denial of Service: Eluding Network Intrusion Detection](https://drive.google.com/open?id=19FIodZJyERgiT04GTwOWl5tuZi-hVZzp) - T. H. Ptacek, T. N. Newsham, Secure Networks, Inc. 1998.
+- [Meltdown Attack](https://drive.google.com/open?id=1m31KmBtY-n89sPUSsZvhYHgE_aiYfeU6) - M. Lipp, M. Schwarz, D. Gruss, T. Prescher, W. Haas, S. Mangard, P. Kocher, D. Genkin, Y. Yarom, M. Hamburg
+- [Spectre Attacks: Exploiting Speculative Execution](https://drive.google.com/open?id=1-M3ugPWnkNbemUMLpi2tp0uwCnQavSJN) - P. Kocher, D. Genkin, D. Gruss, W. Haas, M. Hamburg, M. Lipp, S. Mangard, T. Prescher, M. Schwarz, Y. Yarom
 
 ### Documentaries
 - [Banking on Bitcoin](https://gostream.is/film/banking-on-bitcoin-18789/watching.html?ep=704633)
