@@ -32,6 +32,16 @@ Link digest curated for your reading pleasure.
 - [C++ Bjarne Stroustrup's Homepage](http://www.stroustrup.com/C++.html)
 - [Learn C++](http://www.learncpp.com/) - This is the internet's best website
 
+### Security
+- [CISSP: Certified Information Systems Security Professions (Study Guide)](https://drive.google.com/file/d/1JkIGC9V-yZG29hGPnaSMOj9YfwCWsyAN/view?usp=sharing)
+- [Guide to Malware Incident Prevention and Handling for Desktops and Laptops](https://drive.google.com/file/d/1kIgolZAvAmcs3xc3SCDT_cUEHNh28nda/view?usp=sharing) - NIST
+- [The Basic Building Blocks of Malware](https://drive.google.com/open?id=1PMEyHAkxsBzEhqh9PGprfEdXG9fgB3jw) - J. Shin, D. F. Spears, University of Wyoming
+- [Network Intrusion Detection. IEEE Network, 1994](https://drive.google.com/open?id=175gOUqy8xouuUWr85hFhSZhsdpRuTDif) - B. Mukherjee, L. T. Heberlein, K. N. Levitt
+- [Cisco Network-Based Intrusion Detection - Functionalities and Configuration](https://drive.google.com/open?id=1KZTNY2NkQVpoNo8h0CpKeQ1meMwQcCMC)
+- [Data Mining for Network Intrusion Detection:  How to Get Started. The MITRE Corporation.](https://drive.google.com/open?id=1TI02bncUIZvxReF_mZPv_yY_yyYLM4-f) - E. Bloedorn,  A. D. Christiansen,  W. Hill, C. Skorupka,  L. M. Talbot,  J. Tivel
+- [Network Intrusion Detection Systems - False Positive Reduction Through Anomaly Detection](https://drive.google.com/open?id=1J3Ke7vHXo-kPfilFSK0X02q2dwtrrRF9) - E. Zambon, D. Bolzoni
+- [Insertion, Evasion, and Denial of Service: Eluding Network Intrusion Detection](https://drive.google.com/open?id=19FIodZJyERgiT04GTwOWl5tuZi-hVZzp) - T. H. Ptacek, T. N. Newsham, Secure Networks, Inc. 1998.
+
 ### Documentaries
 - [Banking on Bitcoin](https://gostream.is/film/banking-on-bitcoin-18789/watching.html?ep=704633)
 - [Bitcoins in Argentina](https://www.youtube.com/watch?v=e__m-w4N7NI)
