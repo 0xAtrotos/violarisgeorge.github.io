@@ -11,6 +11,8 @@ Link digest curated for your reading pleasure.
 - [How does Bitcoin work?](http://panteracapital.com/wp-content/uploads/43517996c44ec1d3372ed7eb0a6138bd-pantera.primer.03.2014-af.pdf) - Pantera Capital
 - [Introduction to Digital Currencies, free MOOC](https://digitalcurrency.unic.ac.cy/free-introductory-mooc/) - University of Nicosia
 - [How the Bitcoin Protocol Actually Works](https://gotocon.com/dl/goto-cph-sept-2014/slides/JanMller_HowTheBitcoinProtocolActuallyWorks.pdf) - Jan Møller, Mycelium
+- [Lightning Network Summary](https://drive.google.com/open?id=1OQLRc3MiKoDhVi5PytbsBk7nRjtAzlvS) - lighnting.network website
+- [Lightning Network Paper](https://drive.google.com/open?id=1W2E3aOa66_s1JwGELpOowTZVbmV3hzOE) - J. Poon, T. Dryja, 2016
 
 ### Cryptography
 - [Principles of Modern Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_2.pdf) - Dan Boneh, Victor Shoup
