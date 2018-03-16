@@ -2,7 +2,7 @@
 
 > This page is my home on the internet. I am a security engineer, sysadmin and Golang, Python, PHP & Java programmer. Decentralization and cryptocurrency lover, cypherpunk wannabe, cryptography student [#golang](https://twitter.com/search?q=%23golang&src=typd) [#bitcoin](https://twitter.com/search?q=%23bitcoin&src=typd) [#blockchain](https://twitter.com/search?q=%23blockchain&src=tyah) [#p2p](https://twitter.com/search?q=%23p2p&src=typd) [#privacy](https://twitter.com/search?q=%23privacy&src=typd)
 
-You may read [about what I do and find me on social media (about.me)](https://about.me/violarisgeorge), read [articles](https://violaris.org/posts.html) I write about my [projects](https://github.com/violarisgeorge?tab=repositories), or go straight to [my blog](https://medium.com/@violarisgeorge_46405).
+> You may read [about what I do and find me on social media (about.me)](https://about.me/violarisgeorge), read [articles](https://violaris.org/posts.html) I write about my [projects](https://github.com/violarisgeorge?tab=repositories), or go straight to [my blog](https://medium.com/@violarisgeorge_46405).
 
 I work on securing infrastructure and enterprise information systems. I provide technological solutions to make business procedures and insight more efficient and profitable. Microsoft technologies (MSSQL, Sharepoint, Exchange Server, Active Directory), Linux systems (RedHat, CentOS and Ubuntu), virtualization environments such as vmWare (vSphere, vCenter, Orchestrator) and Veeam for backup and replication are utilized to provide complete solution integration. I believe in using a holistic approach in each project I manage, taking into consideration all surrounding technologies that can either affect or benefit the project in one way or another.
 
