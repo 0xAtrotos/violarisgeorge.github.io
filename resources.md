@@ -28,6 +28,7 @@ Link digest curated for your reading pleasure.
 - [Cyphernomicon](https://drive.google.com/open?id=0B-SzhzqoXgcPYXFzTjUtb0NzcGs) - Timothy C. May
 - [Cypherpunk Manifesto](https://drive.google.com/open?id=0B-SzhzqoXgcPYXFzTjUtb0NzcGs) - Eric Hughes
 - [The Cypherpunk Revolution](https://drive.google.com/open?id=0B-SzhzqoXgcPZzBTTTl2M3V4bzA) - Thomas Rid
+- [Cypherpunk Research](https://github.com/tombusby/cypherpunk-research)
 
 ### Programming
 - [Go Programming Language Specification](https://golang.org/ref/spec)
