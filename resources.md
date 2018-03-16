@@ -22,6 +22,7 @@ Link digest curated for your reading pleasure.
 - [Cryptographic Communications System and Method (RSA)](https://docs.google.com/viewer?url=patentimages.storage.googleapis.com/pdfs/US4405829.pdf)- Rivest, Shamir, Adleman
 - [An Efficient Protocol for Authenticated Key Agreement](http://cacr.uwaterloo.ca/techreports/1998/corr98-05.pdf) (Elliptic-Curve Diffie-Hellman, ECDH) - Law, Qu, Menezes, Solinas, Vanstone
 - [The Elliptic Curve Digital Signature Algorithm](http://residentrf.ucoz.ru/_ld/0/34_Digital_Signatu.pdf) - Johnson, Menezes
+- [Introduction to Cryptography](https://www.youtube.com/channel/UC1usFRN4LCMcfIV7UjHNuQg/videos "Video Lectures") - Video lectures by Prof. Christof Paar
 
 ### Cypherpunks
 - [Underground](https://drive.google.com/open?id=0B-SzhzqoXgcPTHJ5MXhGVVhKZlU) - Suelette Dreyfus, Julian Assange
