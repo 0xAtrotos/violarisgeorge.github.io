@@ -14,6 +14,7 @@ Link digest curated for your reading pleasure.
 - [The Complete Satoshi](http://satoshi.nakamotoinstitute.org/) - Satoshi Nakamoto Institute
 - [Lightning Network Summary](https://drive.google.com/open?id=1OQLRc3MiKoDhVi5PytbsBk7nRjtAzlvS) - lighnting.network website
 - [Lightning Network Paper](https://drive.google.com/open?id=1W2E3aOa66_s1JwGELpOowTZVbmV3hzOE) - J. Poon, T. Dryja, 2016
+- [List of Bitcoin software development tools: Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - Igor Barinov
 - [Ultimate Bitcoin Resources List](http://lopp.net/bitcoin.html) - Jameson Lopp
 
 ### Cryptography
