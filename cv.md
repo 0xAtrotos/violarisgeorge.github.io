@@ -10,6 +10,9 @@
 
 I work on developing secure enterprise software and infrastructure.
 ---
+
+---
+
 ### Professional Experience
 **October 2014 - present**: IT Systems Administrator, Trust International Insurance
 1. Information Systems Administration - Insurance ERP and Policy/Finance/Claims Systems
