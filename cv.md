@@ -1,11 +1,12 @@
 ## Curriculum Vitae
 
-### George Violaris
-#### Security Engineer & Programmer
-#### Email: violarisgeorge@gmail.com
-#### Phone: +357 99433732
+**George Violaris**
+**Security Engineer & Programmer**
+**Email**: violarisgeorge@gmail.com
+**Phone**: +357 99433732
 
 I work on developing secure enterprise software and infrastructure.
+
 
 ### Professional Experience
 **October 2014 - present**: IT Systems Administrator, Trust International Insurance
@@ -29,6 +30,7 @@ Custom intranet and customer portals - PHP, MySQL
 
 **February 2007 - November 2007**: Security Systems Technician, SAPELE Security Systems Ltd
 Installation and commissioning of security systems (CCTV, burglar and fire alarms, access control and time attendance systems)
+
 
 ### Education
 **1996 - 2000**: Multinational School of Riyadh, Saudi Arabia
