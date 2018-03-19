@@ -1,4 +1,5 @@
 ## Curriculum Vitae
+[Download in PDF](https://drive.google.com/open?id=1TZhYaYWlC55d5U2YKwG7LM8jNlAXKv1L)
 
 **George Violaris**
 
