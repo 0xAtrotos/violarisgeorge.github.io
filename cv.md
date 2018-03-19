@@ -8,34 +8,34 @@
 I work on developing secure enterprise software and infrastructure.
 
 ### Professional Experience
-#### October 2014 - present: IT Systems Administrator, Trust International Insurance
+**October 2014 - present**: IT Systems Administrator, Trust International Insurance
 1. Information Systems Administration - Insurance ERP and Policy/Finance/Claims Systems
 2. Virtual Infrastructure - Installation, provisioning and administration of ESXi/vSphere, NetApp
 3. Network Administration - Cisco switching/routing
 4. Security Administration - Firewall, IPS/IDS, IPSec, internal PenTesting, security policy design
 5. Data Protection - Veeam Backup and Replication, vSphere Replication
 
-#### February 2012 - October 2014: Software & Systems Engineer, SMK IdealHost Ltd
+**February 2012 - October 2014**: Software & Systems Engineer, SMK IdealHost Ltd
 1. Web Development - Development of IdealDNS (Python, PHP, Java)
 2. Systems Administration - vSphere, Windows & Linux servers
 3. Network administration and monitoring - Cisco switches and routers
 4. Security administration - Checkpoint & Fortinet
 
-#### January 2010 - January 2012: Software Engineer, Buytech Ltd
+**January 2010 - January 2012**: Software Engineer, Buytech Ltd
 GPS Tracking Server (StayOnTrack) development (Java, Python, Ajax, Google Maps integration, interfacing GPS tracking devices to work with StayOnTrack server (Python), third party GPS vehicle and person tracking server/device integration, time attendance and access control software development in Java EE (Spring framework)
 
-#### January 2008 - December 2009: Web Application Developer, Freelance
+**January 2008 - December 2009**: Web Application Developer, Freelance
 Custom intranet and customer portals - PHP, MySQL
 
-#### February 2007 - November 2007: Security Systems Technician, SAPELE Security Systems Ltd
+**February 2007 - November 2007**: Security Systems Technician, SAPELE Security Systems Ltd
 Installation and commissioning of security systems (CCTV, burglar and fire alarms, access control and time attendance systems)
 
 ### Education
-#### 1996 - 2000: Multinational School of Riyadh, Saudi Arabia
-#### 2000 - 2002: American International School of Riyadh, Saudi Arabia
-#### Class of 2003: High School Diploma, American International School of Cyprus
-#### 2007 - 2011:BSc Computer Science, University of Nicosia
-#### 2011 - 2013: MSc Computer & Network Security - Upper Second Class Honours, Middlesex University
+**1996 - 2000**: Multinational School of Riyadh, Saudi Arabia
+**2000 - 2002**: American International School of Riyadh, Saudi Arabia
+**Class of 2003**: High School Diploma, American International School of Cyprus
+**2007 - 2011**:BSc Computer Science, University of Nicosia
+**2011 - 2013**: MSc Computer & Network Security - Upper Second Class Honours, Middlesex University
 
 ### Academic and Professional Publications
 1. Violaris C. G., Mavromoustakis X. C. “On the Performance Evaluation and Analysis of the Hybridised Bittorrent Protocol with Partial Mobility Characteristics” Proceedings of The Second International Conference on Advances in P2P Systems (AP2PS 2010), October 25-30, Florence, Italy.
