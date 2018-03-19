@@ -32,10 +32,15 @@ Installation and commissioning of security systems (CCTV, burglar and fire alarm
 
 ### Education
 **1996 - 2000**: Multinational School of Riyadh, Saudi Arabia
+
 **2000 - 2002**: American International School of Riyadh, Saudi Arabia
+
 **Class of 2003**: High School Diploma, American International School of Cyprus
+
 **2007 - 2011**:BSc Computer Science, University of Nicosia
+
 **2011 - 2013**: MSc Computer & Network Security - Upper Second Class Honours, Middlesex University
+
 
 ### Academic and Professional Publications
 1. Violaris C. G., Mavromoustakis X. C. “On the Performance Evaluation and Analysis of the Hybridised Bittorrent Protocol with Partial Mobility Characteristics” Proceedings of The Second International Conference on Advances in P2P Systems (AP2PS 2010), October 25-30, Florence, Italy.
@@ -44,13 +49,14 @@ Installation and commissioning of security systems (CCTV, burglar and fire alarm
 
 3. “Out-of-Band Authentication Model with Hashcash Brute-Force Prevention”. IEEE – The 6th International Symposium on Cyberspace Safety and Security. (CSS 2014) Paris, France, August 20 – 22, 2014. Violaris George, Dionysiou Ioanna.
 
+
 ### Professional Skills
-#### Programming Languages: Go, Java, Python, PHP
-#### Programming Frameworks: Spring, Buffalo, Revel, CodeIgniter, Django
-#### Databases: Oracle, Postgres, MySQL, MSSQL, MongoDB
-#### Security: Metasploit, Nmap, Wireshark, Ettercap
-#### Information Security Frameworks: NIST Cybersecurity Framework. ITIL, OWASP Security Knowledge Framework
-#### Protocols: TCP/IP, JSON-RPC, REST, SOAP, AJAX
-#### Server Operating Systems: RedHat, CentOS, Oracle Linux, Ubuntu Server, Windows 2008/2012/2016 
-#### Application Servers: Apache, Weblogic, Sharepoint, Microsoft Exchange 2007/2013
-#### Domain and Directory Services: Active Directory
+**Programming Languages**: Go, Java, Python, PHP
+**Programming Frameworks**: Spring, Buffalo, Revel, CodeIgniter, Django
+**Databases**: Oracle, Postgres, MySQL, MSSQL, MongoDB
+**Security**: Metasploit, Nmap, Wireshark, Ettercap
+**Information Security Frameworks**: NIST Cybersecurity Framework. ITIL, OWASP Security Knowledge Framework
+**Protocols**: TCP/IP, JSON-RPC, REST, SOAP, AJAX
+**Server Operating Systems**: RedHat, CentOS, Oracle Linux, Ubuntu Server, Windows 2008/2012/2016 
+**Application Servers**: Apache, Weblogic, Sharepoint, Microsoft Exchange 2007/2013
+**Domain and Directory Services**: Active Directory
