@@ -70,7 +70,7 @@ I work on developing secure enterprise software and infrastructure.
 
 **Databases**: Oracle, Postgres, MySQL, MSSQL, MongoDB
 
-**Security**: Metasploit, Nmap, Wireshark, Ettercap
+**Security**: Metasploit, w3af, Nmap, Wireshark, Ettercap
 
 **Information Security Frameworks**: NIST Cybersecurity Framework. ITIL, OWASP Security Knowledge Framework
 
