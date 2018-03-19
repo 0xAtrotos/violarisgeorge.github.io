@@ -1,6 +1,6 @@
 ## Resources
 
-Link digest curated for your reading pleasure.
+Link digest curated for your reading pleasure. I study all resources I share, if you're up for a discussion please [contact me](mailto:violarisgeorge@gmail.com).
 
 ### Interesting findings
 - [How to make a mint: The cryptography of anonymous electronic cash](nsamint.html) - (NSA document)
@@ -51,6 +51,7 @@ Link digest curated for your reading pleasure.
 - [Insertion, Evasion, and Denial of Service: Eluding Network Intrusion Detection](https://drive.google.com/open?id=19FIodZJyERgiT04GTwOWl5tuZi-hVZzp) - T. H. Ptacek, T. N. Newsham, Secure Networks, Inc. 1998.
 - [Meltdown Attack](https://drive.google.com/open?id=1m31KmBtY-n89sPUSsZvhYHgE_aiYfeU6) - M. Lipp, M. Schwarz, D. Gruss, T. Prescher, W. Haas, S. Mangard, P. Kocher, D. Genkin, Y. Yarom, M. Hamburg
 - [Spectre Attacks: Exploiting Speculative Execution](https://drive.google.com/open?id=1-M3ugPWnkNbemUMLpi2tp0uwCnQavSJN) - P. Kocher, D. Genkin, D. Gruss, W. Haas, M. Hamburg, M. Lipp, S. Mangard, T. Prescher, M. Schwarz, Y. Yarom
+- [A Red Teamer's guide to pivoting](https://artkond.com/2017/03/23/pivoting-guide/) - Artem Kordatenko
 
 ### Documentaries
 - [Banking on Bitcoin](https://gostream.is/film/banking-on-bitcoin-18789/watching.html?ep=704633)
