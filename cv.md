@@ -25,13 +25,15 @@ I work on developing secure enterprise software and infrastructure.
 4. Security administration - Checkpoint & Fortinet
 
 **January 2010 - January 2012**: Software Engineer, Buytech Ltd
-GPS Tracking Server (StayOnTrack) development (Java, Python, Ajax, Google Maps integration, interfacing GPS tracking devices to work with StayOnTrack server (Python), third party GPS vehicle and person tracking server/device integration, time attendance and access control software development in Java EE (Spring framework)
+1. GPS Tracking Server (StayOnTrack) development (Java, Python, Ajax, Google Maps integration) 
+2. Interfacing GPS tracking devices to work with StayOnTrack server (Python)
+3. Third party GPS vehicle and person tracking server/device integration, time attendance and access control software development in Java EE (Spring framework)
 
 **January 2008 - December 2009**: Web Application Developer, Freelance
-Custom intranet and customer portals - PHP, MySQL
+- Custom intranet and customer portals - PHP, MySQL
 
 **February 2007 - November 2007**: Security Systems Technician, SAPELE Security Systems Ltd
-Installation and commissioning of security systems (CCTV, burglar and fire alarms, access control and time attendance systems)
+- Installation and commissioning of security systems (CCTV, burglar and fire alarms, access control and time attendance systems)
 
 ---
 
