@@ -3,9 +3,11 @@
 Laszlo Hanyecz [laszlo at heliacal.net](mailto:lightning-dev@lists.linuxfoundation.org)
 Sun Feb 25 01:29:59 UTC 2018
 
--Previous message: [[Lightning-dev] [c-lightning] Welcoming a New C-lightning Core Team Member!](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/001056.html)
--Next message: [[Lightning-dev] Pizza for (lightning) bitcoins?](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/001045.html)
--Messages sorted by: [[ date ]](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/date.html#1044) [[ thread ]](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/thread.html#1044) [[ subject ]](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/subject.html#1044) [[ author ]](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/author.html#1044)
+- Previous message: [[Lightning-dev] [c-lightning] Welcoming a New C-lightning Core Team Member!](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/001056.html)
+
+- Next message: [[Lightning-dev] Pizza for (lightning) bitcoins?](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/001045.html)
+
+- Messages sorted by: [[ date ]](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/date.html#1044) [[ thread ]](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/thread.html#1044) [[ subject ]](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/subject.html#1044) [[ author ]](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/author.html#1044)
 
 I wanted to try out a real trade using lightning network.  I don't know of any pizza places near me that accept lightning bitcoin yet but a friend from London agreed to do it and he sub contracted out the pizza delivery to a local shop.
 In short, I paid bitcoin using the lightning network and he arranged for pizza to be delivered to me.  In this trade my friend is just a middle man that is taking the risk on accepting lightning payments, but it demonstrates the basic premise of how this works for everyday transactions.  It could just as well be the pizza shop accepting the payment directly with their own lightning node.
@@ -40,8 +42,10 @@ Some pics of my family enjoying the pizza here: http://eclipse.heliacal.net/~sol
 An HTML attachment was scrubbed...
 URL: <http://lists.linuxfoundation.org/pipermail/lightning-dev/attachments/20180225/313737f3/attachment-0001.html>
 
--Previous message: [[Lightning-dev] [c-lightning] Welcoming a New C-lightning Core Team Member!](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/001056.html)
--Next message: [[Lightning-dev] Pizza for (lightning) bitcoins?](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/001045.html)
--Messages sorted by: [[ date ]](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/date.html#1044) [[ thread ]](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/thread.html#1044) [[ subject ]](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/subject.html#1044) [[ author ]](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/author.html#1044)
+- Previous message: [[Lightning-dev] [c-lightning] Welcoming a New C-lightning Core Team Member!](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/001056.html)
+
+- Next message: [[Lightning-dev] Pizza for (lightning) bitcoins?](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/001045.html)
+
+- Messages sorted by: [[ date ]](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/date.html#1044) [[ thread ]](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/thread.html#1044) [[ subject ]](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/subject.html#1044) [[ author ]](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/author.html#1044)
 
 [More information about the Lightning-dev mailing list](https://lists.linuxfoundation.org/mailman/listinfo/lightning-dev)
