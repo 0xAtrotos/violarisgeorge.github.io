@@ -17,6 +17,8 @@ Link digest curated for your reading pleasure. I study all resources I share, if
 - [Lightning Network Paper](https://drive.google.com/open?id=1W2E3aOa66_s1JwGELpOowTZVbmV3hzOE) - J. Poon, T. Dryja, 2016
 - [List of Bitcoin software development tools: Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - Igor Barinov
 - [Ultimate Bitcoin Resources List](http://lopp.net/bitcoin.html) - Jameson Lopp
+- [Raspnode: Bitcoin full node + LND 0.4 Beta installation script for RaspberryPi](https://github.com/jochemin/raspnode)
+
 
 ### Cryptography
 - [Principles of Modern Cryptography](https://crypto.stanford.edu/~dabo/cryptobook/draft_0_2.pdf) - Dan Boneh, Victor Shoup
