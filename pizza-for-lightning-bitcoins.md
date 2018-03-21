@@ -3,6 +3,8 @@
 Laszlo Hanyecz [laszlo at heliacal.net](mailto:lightning-dev@lists.linuxfoundation.org)
 Sun Feb 25 01:29:59 UTC 2018
 
+- Original message: [[Lightning-dev] Pizza for (lightning) bitcoins](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/001044.html)
+
 - Previous message: [[Lightning-dev] [c-lightning] Welcoming a New C-lightning Core Team Member!](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/001056.html)
 
 - Next message: [[Lightning-dev] Pizza for (lightning) bitcoins?](https://lists.linuxfoundation.org/pipermail/lightning-dev/2018-February/001045.html)
