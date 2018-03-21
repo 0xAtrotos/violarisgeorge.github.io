@@ -19,7 +19,7 @@ Depending on what kind of havoc a blackhat hacker wishes to achieve, they will e
 It is helpful to think of a vulnerability as an undocumented [API](https://en.wikipedia.org/wiki/Application_programming_interface). In essence, that is exactly what a vulnerability is. A non-intended API will give a hacker the same aspects that a programmer receives when using an intended API. It will allow the hacker to access system methods, protocols, routines, and so on, and allow them to make calls to functionality that should be exposed only internally to the system's processes. A very simplistic example of a vulnerability could be a paddlock that opens with more than one key due to a design fault. In computer security terms, the simplest vulnerability would be to have a system with hard-coded default login credentials. 
 
 ### What is a threat?
-
+A threat is any event which can cause undesired outcomes. Anything from natural disaster to disgruntled or uninformed employees can be considered a threat. A hacker with intent to steal information from your file server is a threat to data integrity. A guest user in our network with malware on their laptop is a threat to availability. An stolen employee laptop is a threat to confidentiality. 
 
 ### What is an exploit?
 
