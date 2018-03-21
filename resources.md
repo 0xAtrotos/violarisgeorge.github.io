@@ -18,6 +18,7 @@ Link digest curated for your reading pleasure. I study all resources I share, if
 - [List of Bitcoin software development tools: Awesome Bitcoin](https://github.com/igorbarinov/awesome-bitcoin) - Igor Barinov
 - [Ultimate Bitcoin Resources List](http://lopp.net/bitcoin.html) - Jameson Lopp
 - [Raspnode: Bitcoin full node + LND 0.4 Beta installation script for RaspberryPi](https://github.com/jochemin/raspnode)
+- [Pizza for (lightning) Bitcoins?](pizza-for-lightning-bitcoins.html) - Laszlo Hanyecz
 
 
 ### Cryptography
