@@ -1,5 +1,10 @@
 ## Concepts of Information Security
 
+<a href="https://twitter.com/intent/tweet?screen_name=ViolarisGeorge&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-related="ViolarisGeorge" data-show-count="false">Tweet to @ViolarisGeorge</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+On Wed, 21 Mar 2018 22:20 +0300
+george <violarisgeorge@gmail.com> wrote:
+
 When first learning about information security, most people begin with thinking how to keep an atacker out of their systems. Be it firewalls, router configurations, Intrusion Detection and Intrusion Prevention systems, there is a plethora of hardware and software, both open-source and commercial, which allow system engineers to defend against attacks. Many times such systems are deployed in companies after an attack. Most times though, even though they are there from the beginning, they repeatedly fail to thwart attacks, putting organizations and individuals in danger of stolen or corrupt data, and fraud. However, a change in mindset and allowing ourselves to think like blackhat hackers, may allow us to create better infrastructure and network deployments, tweak our system configurations to close off known vulnerabilities, and overall give us a sense of what someone looking to harm our environment may try or do.
 
 It is best to start by knowing a few things that create good security practices. A good starting point is learning about the CIA triad (Confidentiality, Integrity and Availability) and how these aspects make or break the security of a network or system. 
