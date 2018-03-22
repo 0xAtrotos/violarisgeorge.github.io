@@ -55,7 +55,7 @@ Link digest curated for your reading pleasure. I study all resources I share, if
 - [Meltdown Attack](https://drive.google.com/open?id=1m31KmBtY-n89sPUSsZvhYHgE_aiYfeU6) - M. Lipp, M. Schwarz, D. Gruss, T. Prescher, W. Haas, S. Mangard, P. Kocher, D. Genkin, Y. Yarom, M. Hamburg
 - [Spectre Attacks: Exploiting Speculative Execution](https://drive.google.com/open?id=1-M3ugPWnkNbemUMLpi2tp0uwCnQavSJN) - P. Kocher, D. Genkin, D. Gruss, W. Haas, M. Hamburg, M. Lipp, S. Mangard, T. Prescher, M. Schwarz, Y. Yarom
 - [A Red Teamer's guide to pivoting](https://artkond.com/2017/03/23/pivoting-guide/) - Artem Kordatenko
-- [How to Build a Successful Information Security Career](https://danielmiessler.com/blog/build-successful-infosec-career/)
+- [How to Build a Successful Information Security Career](https://danielmiessler.com/blog/build-successful-infosec-career/) - Daniel Miessler
 
 ### Documentaries
 - [Banking on Bitcoin](https://gostream.is/film/banking-on-bitcoin-18789/watching.html?ep=704633)
@@ -75,6 +75,8 @@ Link digest curated for your reading pleasure. I study all resources I share, if
 - [Microfocus](https://www.voltage.com/blog/) - Data Security blog
 - [Stack Overflow blog](https://stackoverflow.blog/)
 - [Jeff Atwood's blog](https://blog.codinghorror.com/)
+- [Daniel Miessler's blog](https://danielmiessler.com)
+- [Red Teams](https://redteams.net)
 
 ### Forums
 - [Bitcoin Subreddit](https://reddit.com/r/bitcoin)
