@@ -77,6 +77,12 @@ Link digest curated for your reading pleasure. I study all resources I share, if
 - [Jeff Atwood's blog](https://blog.codinghorror.com/)
 - [Daniel Miessler's blog](https://danielmiessler.com)
 - [Red Teams](https://redteams.net)
+- [Dark Reading](https://www.darkreading.com/Default.asp)
+- [Harmj0y](http://www.harmj0y.net/blog/) - Security at the misfortune of others
+- [SANS Pen-testing blog](https://pen-testing.sans.org/blog/)
+- [Small Team Tactics](https://smallteamtactics.com/)
+- [Social Egineer](https://www.social-engineer.org/blog/)
+- [Red Team Analysis Society](https://www.redanalysis.org/about-2/)
 
 ### Forums
 - [Bitcoin Subreddit](https://reddit.com/r/bitcoin)
