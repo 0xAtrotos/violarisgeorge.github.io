@@ -2,7 +2,7 @@
 
 <a href="https://twitter.com/intent/tweet?screen_name=ViolarisGeorge&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-related="ViolarisGeorge" data-show-count="false">Tweet to @ViolarisGeorge</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-On Tue, 8 Jul 2017 20:51 +0300
+On Tue, 8 Jul 2014 20:51 +0300
 george <violarisgeorge@gmail.com> wrote:
 
 Abstract — Taking into consideration the importance of security in online banking transactions, it is critical to reassess the efficiency and safety of using secure token devices such as the “Secure Key” device provided by most banks, and similar devices such as the DigiPass or other smart cards. The security requirements of such mechanisms need to become bulletproof to both inside and outside attackers, and considering the attacks that certain banking servers and users have fallen victims to, it would make sense to re-engineer some of the aspects of secure token generation, but also of the authentication transmission procedure. This document attempts to suggest some techniques which would add to the security of both procedures mentioned above, while also accounting for ease of usability and availability of both secure token and authentication to users. Tactical routines such as the Two-Factor Authentication, which is already being regarded into secure token implementations, is talked about, and the notion of additional measures such as Biometric Authentication and Out-Of-Band Authentication are being discussed. The ideas and suggestions mentioned need to be
