@@ -8,4 +8,4 @@
 
 - 16/10/2017 » [Simple blockchain logic in Go](gopherchain.html#simple-blockchain-logic-in-go)
 
-- 10/02/2012 » [Network Management Overview](network-management-overview)
+- 10/02/2012 » [Network Management Overview](network-management-overview.html#network-management-overview)
