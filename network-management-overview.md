@@ -42,9 +42,6 @@ III.     Simple Network Management Protocol
 
 The Simple Network Management Protocol is actually, in terms of computer networking, a very old protocol. It has its roots in the Simple Gateway Monitoring Protocol [3], which SNMP is backwards compatible with. The protocol’s definition dates back to 1988, and work started even earlier. This shows us, that even from the very early stages of networking, even before the World Wide Web became available, managing a network of computer systems was already considered important enough to develop an efficient protocol to specify how Network Management should be done.
 
-![]({{site.baseurl}}/https://i.imgur.com/svDPA9S.png)
-Image 1: SNMP Receiving Data from the Network [4]
-
 Architecture
 
 The SNMP, defines that network elements, such as gateways, routers, switches, servers and other networking devices, can be monitored if they have management agents running, which are able to transmit data in a format predefined by the protocol. Management agents are typically software which run on these machines. Many times, the agents are running on embedded systems such as routers and other network devices, and these require the agents to be in the form of firmware; software embedded on a computer chip, running directly on the hardware [5].
@@ -55,9 +52,6 @@ The entities in a network receive administrative relationships, which define wha
 IV.     Network Management Software
 
 The entirety of the Simple Network Management Protocol is concentrated, for the scope of operation of network administration and management, upon a single or multiple network monitoring and management software. Many times a single software will support most or even all of the functions described in SNMP. This gives the advantage to the network administrators to have their management consoles concentrated on a single point, thus reducing complexity and delay in administering and resolving problems, or even retrieving statistics for use by analysts.
-
-![]({{site.baseurl}}/https://i.imgur.com/RtQKBaH.png)
-Image 2: SNMP Monitor with Statistics and Topology [7]
 
 The most reputable of management and monitoring tools are, namely, Spiceworks [8], Cacti, AggreGate Network Manager, Nimsoft Monitoring Solution, Solarwinds, Zabbix and Zenos.
 
@@ -70,9 +64,6 @@ In addition, a combination of hardware with the above mentioned software is requ
 Moreover, a Network Management System’s job is not only to make reports on traffic, CPU loads and system state; most NMS provide services such as Network Inventory, Hardware Management, Protocol Analyzers, Network Scanning Tools and Wireless Tools. Each of these tools are decisive in the administration of hardware, configuration of network rules and policies, and management of routing, port forwarding and firewalling within a wired or wireless network.
 
 Furthermore, tools such as Bandwidth Monitors, Activity Monitors and Configuration Managers, ensure that the hardware, software, web traffic to each entity in the network and LDAP applications are monitored since the wellbeing of each of these  safeguards the certainty and longevity of a network’s uptime.
-
-![]({{site.baseurl}}/https://i.imgur.com/Uck9u35.png)
-Cacti Network Monitoring
 
 The last part in NMS, and available in most commercial systems, is the ability to receive support tickets from users, concerning problems they experience with network connectivity and report data transfer issues. This part is also very important as it is an additional measure for network administrators, allowing them to know about an issue that was not perceived by the NMS.
 V.     Solving Problems
@@ -123,6 +114,7 @@ Security is many times disregarded, until something happens that makes administr
 Furthermore it is a good administrative policy to block access to websites that use a lot of traffic and to websites or web services which are considered to be untrustworthy or host malicious content.
 
 Also, performance and reliability are also part of security, as a secure system needs to be both reliable and have good performance. Likewise, a system with good performance needs to be both reliable and secure, and so on and so forth. This is why these three issues are the most important aspects to look for when overcoming problems in the development, deployment and application of Network Management Systems.
+
 VII.     Conclusion
 
 Network Management is the most essential component in running a network efficiently and minimizing the problems of security, performance, reliability, administration and configuration of a live computer network.
