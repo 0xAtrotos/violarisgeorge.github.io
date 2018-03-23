@@ -56,6 +56,7 @@ Link digest curated for your reading pleasure. I study all resources I share, if
 - [Spectre Attacks: Exploiting Speculative Execution](https://drive.google.com/open?id=1-M3ugPWnkNbemUMLpi2tp0uwCnQavSJN) - P. Kocher, D. Genkin, D. Gruss, W. Haas, M. Hamburg, M. Lipp, S. Mangard, T. Prescher, M. Schwarz, Y. Yarom
 - [A Red Teamer's guide to pivoting](https://artkond.com/2017/03/23/pivoting-guide/) - Artem Kordatenko
 - [How to Build a Successful Information Security Career](https://danielmiessler.com/blog/build-successful-infosec-career/) - Daniel Miessler
+- [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - Ultimate Red Teams Resource List
 
 ### Documentaries
 - [Banking on Bitcoin](https://gostream.is/film/banking-on-bitcoin-18789/watching.html?ep=704633)
