@@ -91,6 +91,7 @@ Link digest curated for your reading pleasure. I study all resources I share, if
 - [Small Team Tactics](https://smallteamtactics.com/)
 - [Social Egineer](https://www.social-engineer.org/blog/)
 - [Red Team Analysis Society](https://www.redanalysis.org/about-2/)
+- [High on Coffee](https://highon.coffee) - A site about Penetration Testing & Security
 
 ### Forums
 - [Bitcoin Subreddit](https://reddit.com/r/bitcoin)
