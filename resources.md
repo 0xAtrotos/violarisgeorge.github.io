@@ -90,6 +90,7 @@ Link digest curated for your reading pleasure. I study all resources I share, if
 - [SecuritySift](https://www.securitysift.com/)
 - [g0tmi1k](https://blog.g0tmi1k.com/)
 - [Pentest blog](https://pentest.blog/)
+- [Abatchy's Security Blog](https://www.abatchy.com/)
 
 ### Audiovisual
 - [SecurityTube](http://www.securitytube.net/) - Huge collection of security and hacking related videos
