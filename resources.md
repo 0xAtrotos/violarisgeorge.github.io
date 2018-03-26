@@ -104,6 +104,7 @@ Link digest curated for your reading pleasure. I study all resources I share, if
 
 ### Products
 - [Pwnie Express](https://www.pwnieexpress.com/)
+- [Hakshop](https://hakshop.com/) - by Hak5
 
 ### Documentaries
 - [Banking on Bitcoin](https://gostream.is/film/banking-on-bitcoin-18789/watching.html?ep=704633)
