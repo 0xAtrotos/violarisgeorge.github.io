@@ -65,13 +65,8 @@ Link digest curated for your reading pleasure. I study all resources I share, if
 - [Exploit-Exercises](https://exploit-exercises.com/)
 - [ShellterLabs](https://shellterlabs.com/en/)
 
-### Documentaries
-- [Banking on Bitcoin](https://gostream.is/film/banking-on-bitcoin-18789/watching.html?ep=704633)
-- [Bitcoins in Argentina](https://www.youtube.com/watch?v=e__m-w4N7NI)
-- [Bitcoin in Uganda](https://www.youtube.com/watch?v=BrRXP1tp6Kw)
-- [Life on Bitcoin](https://www.youtube.com/watch?v=xRtC_SZfSk8)
-- [The Rise and Rise of Bitcoin](https://www.youtube.com/watch?v=rkoXmwvREmk)
-- [Bitcoin: The end of money as we know it](https://www.youtube.com/watch?v=lUF6klWuB38)
+### Tools
+- [KeepNote](http://keepnote.org/) - Best note keeping tool for documentation and organization
 
 ### Blogs
 - [Schneier on Security](https://www.schneier.com/)
@@ -92,9 +87,18 @@ Link digest curated for your reading pleasure. I study all resources I share, if
 - [Social Egineer](https://www.social-engineer.org/blog/)
 - [Red Team Analysis Society](https://www.redanalysis.org/about-2/)
 - [High on Coffee](https://highon.coffee) - A site about Penetration Testing & Security
+- [SecuritySift](https://www.securitysift.com/)
 
 ### Forums
 - [Bitcoin Subreddit](https://reddit.com/r/bitcoin)
 - [BTC Subreddit](https://reddit.com/r/btc)
 - [Bitcointalk.org - Forum started by Satoshi](https://bitcointalk.org)
 - [BTC Warriors](http://btcwarriors.com/)
+
+### Documentaries
+- [Banking on Bitcoin](https://gostream.is/film/banking-on-bitcoin-18789/watching.html?ep=704633)
+- [Bitcoins in Argentina](https://www.youtube.com/watch?v=e__m-w4N7NI)
+- [Bitcoin in Uganda](https://www.youtube.com/watch?v=BrRXP1tp6Kw)
+- [Life on Bitcoin](https://www.youtube.com/watch?v=xRtC_SZfSk8)
+- [The Rise and Rise of Bitcoin](https://www.youtube.com/watch?v=rkoXmwvREmk)
+- [Bitcoin: The end of money as we know it](https://www.youtube.com/watch?v=lUF6klWuB38)
