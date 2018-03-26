@@ -89,6 +89,7 @@ Link digest curated for your reading pleasure. I study all resources I share, if
 - [High on Coffee](https://highon.coffee) - A site about Penetration Testing & Security
 - [SecuritySift](https://www.securitysift.com/)
 - [g0tmi1k](https://blog.g0tmi1k.com/)
+- [Pentest blog](https://pentest.blog/)
 
 ### Audiovisual
 - [SecurityTube](http://www.securitytube.net/) - Huge collection of security and hacking related videos
