@@ -57,6 +57,7 @@ Link digest curated for your reading pleasure. I study all resources I share, if
 - [A Red Teamer's guide to pivoting](https://artkond.com/2017/03/23/pivoting-guide/) - Artem Kordatenko
 - [How to Build a Successful Information Security Career](https://danielmiessler.com/blog/build-successful-infosec-career/) - Daniel Miessler
 - [Awesome Red Teaming](https://github.com/yeyintminthuhtut/Awesome-Red-Teaming) - Ultimate Red Teams Resource List
+- [Pentest Tips and Tricks](https://jivoi.github.io/2015/07/01/pentest-tips-and-tricks/) - EK
 
 ### Documentaries
 - [Banking on Bitcoin](https://gostream.is/film/banking-on-bitcoin-18789/watching.html?ep=704633)
