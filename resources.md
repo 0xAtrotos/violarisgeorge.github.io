@@ -85,6 +85,7 @@ Link digest curated for your reading pleasure. I collect the links and documents
 - [Nmap](https://nmap.org/) - Powerful network and host scanner
 - [Ettercap](http://www.ettercap-project.org/) - Man in the middle attack tool 
 - [Bettercap](https://www.bettercap.org/) - Man in the middle attack and credential sniffing tool (a.k.a. Ettercap on steroids, or Ninja Etercap)
+- [mitmproxy](https://mitmproxy.org/) - HTTPS proxy for man in the middle attacks
 - [Wireshark](https://www.wireshark.org/) - Network packet and protocol analyzer
 - [w3af](http://w3af.org/) - Web application security audit framework
 - [Burpsuite](https://portswigger.net/burp/) - Web application vulnerability scanner
