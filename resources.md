@@ -40,8 +40,20 @@ Link digest curated for your reading pleasure. I collect the links and documents
 
 ### Programming
 - [Go Programming Language Specification](https://golang.org/ref/spec)
+- [Learn Go](https://github.com/golang/go/wiki/Learn)
+- [Go by Example](https://gobyexample.com/)
+- [Learn Go Programming](https://blog.learngoprogramming.com/)
+- [Learn Python](https://www.learnpython.org/) - Free interactive Python tutorial
+- [The Hitchhiker's Guide to Python](http://docs.python-guide.org/en/latest/intro/learning/)
+- [Learn Python the Hard Way](https://learnpythonthehardway.org/)
 - [C++ Bjarne Stroustrup's Homepage](http://www.stroustrup.com/C++.html)
 - [Learn C++](http://www.learncpp.com/) - This is the internet's best website
+- [Shell Programming with Bash](http://matt.might.net/articles/bash-by-example/)
+- [Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial)
+- [PHP at the Core: A Hacker's Guide](http://php.net/manual/en/internals2.php)
+- [Free Interactive PHP Tutorial](http://www.learn-php.org/)
+- [PHP Manual](http://php.net/manual/en/)
+- [Advanced Java Programming](https://www.udemy.com/advanced-java-programming/) - Udemy
 
 ### Security
 - [CISSP: Certified Information Systems Security Professions (Study Guide)](https://drive.google.com/file/d/1JkIGC9V-yZG29hGPnaSMOj9YfwCWsyAN/view?usp=sharing)
