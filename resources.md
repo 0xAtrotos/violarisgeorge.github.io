@@ -1,6 +1,6 @@
 ## Resources
 
-Link digest curated for your reading pleasure. I study all resources I share, if you're up for a discussion please [contact me](mailto:violarisgeorge@gmail.com).
+Link digest curated for your reading pleasure. I collect the links and documents below as a database of things I have learnt or things I might need to refer to in the future. For suggestions, dead links or just to have a discussion, please [contact me](mailto:violarisgeorge@gmail.com).
 
 ### Interesting findings
 - [How to make a mint: The cryptography of anonymous electronic cash](nsamint.html) - (NSA document)
