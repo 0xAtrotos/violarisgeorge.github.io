@@ -68,6 +68,19 @@ Link digest curated for your reading pleasure. I study all resources I share, if
 
 ### Tools
 - [KeepNote](http://keepnote.org/) - Best note keeping tool for documentation and organization
+- [Immunity Debugger](http://www.immunityinc.com/products/debugger/) - Debugger that can be used to write exploits, analyze malware and reverse engineer binary files.
+- [Metasploit Framework](https://www.metasploit.com/download) - Mega tool for vulnerability scanning, exploit execution and payload deployment
+- [Nmap](https://nmap.org/) - Powerful network and host scanner
+- [Ettercap](http://www.ettercap-project.org/) - Man in the middle attack tool 
+- [Bettercap](https://www.bettercap.org/) - Man in the middle attack and credential sniffing tool (a.k.a. Ettercap on steroids, or Ninja Etercap)
+- [Wireshark](https://www.wireshark.org/) - Network packet and protocol analyzer
+- [w3af](http://w3af.org/) - Web application security audit framework
+- [Burpsuite](https://portswigger.net/burp/) - Web application vulnerability scanner
+- [Cain & Abel](http://www.oxid.it/cain.html) - Windows password cracker
+- [John the Ripper](http://www.openwall.com/john/) - Password cracking
+- [sqlninja](http://sqlninja.sourceforge.net/) - SQL Server injection and takeover tool
+- [BeEF](http://beefproject.com/) - Browswer exploitation framework
+- [Nikto](https://cirt.net/nikto2) - Web server vulnerability scanner
 
 ### Blogs
 - [Schneier on Security](https://www.schneier.com/)
