@@ -2,9 +2,7 @@
 
 - ### [Read the InfoSec Digest](https://paper.li/ViolarisGeorge/1521979641#/)
 - ### [Curriculum Vitae](cv.html#curriculum-vitae)
-- ### [Contact me](mailto:violarisgeorge@gmail.com)
-- ### [Send me an encrypted message](https://keybase.io/encrypt#violarisgeorge)
-- ### [Social Media](https://about.me/violarisgeorge)
+- ### [Contact me](https://about.me/violarisgeorge)
 
 ---
 
