@@ -3,6 +3,8 @@
 - ### [Read the InfoSec Digest](https://paper.li/ViolarisGeorge/1521979641#/)
 - ### [Curriculum Vitae](cv.html#curriculum-vitae)
 
+---
+
 ## About me ⚡️
 I work on securing infrastructure and enterprise information systems. I provide technological solutions to make business procedures and insight more efficient and profitable. Microsoft technologies (MSSQL, Sharepoint, Exchange Server, Active Directory), Linux systems (RedHat, CentOS and Ubuntu), virtualization environments such as vmWare (vSphere, vCenter, Orchestrator) and Veeam for backup and replication are utilized to provide complete solution integration. I believe in using a holistic approach in each project I manage, taking into consideration all surrounding technologies that can either affect or benefit the project in one way or another. I am heavily involved in implementing and maintaining networks, and developing security policies and mechanisms to protect organizations from vulnerabilities and other kinds of potential threats that can compromise computer security and data integrity.
 
