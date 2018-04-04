@@ -1,10 +1,11 @@
-## About me ⚡️
+
 
 > This page is my home on the internet. I am a security engineer, sysadmin and programmer, decentralization and cryptocurrency lover, cypherpunk wannabe, and cryptography student [#golang](https://twitter.com/search?q=%23golang&src=typd) [#bitcoin](https://twitter.com/search?q=%23bitcoin&src=typd) [#blockchain](https://twitter.com/search?q=%23blockchain&src=tyah) [#p2p](https://twitter.com/search?q=%23p2p&src=typd) [#privacy](https://twitter.com/search?q=%23privacy&src=typd). 
 
 - ### [Read the InfoSec Digest](https://paper.li/ViolarisGeorge/1521979641#/)
 - ### [Curriculum Vitae](cv.html#curriculum-vitae)
 
+## About me ⚡️
 I work on securing infrastructure and enterprise information systems. I provide technological solutions to make business procedures and insight more efficient and profitable. Microsoft technologies (MSSQL, Sharepoint, Exchange Server, Active Directory), Linux systems (RedHat, CentOS and Ubuntu), virtualization environments such as vmWare (vSphere, vCenter, Orchestrator) and Veeam for backup and replication are utilized to provide complete solution integration. I believe in using a holistic approach in each project I manage, taking into consideration all surrounding technologies that can either affect or benefit the project in one way or another. I am heavily involved in implementing and maintaining networks, and developing security policies and mechanisms to protect organizations from vulnerabilities and other kinds of potential threats that can compromise computer security and data integrity.
 
 Software development projects I have been involved with include secure GPS tracking servers, intranet applications, customer portals, and web services to enrich the availability of back-end systems. In the past few years my coding weapons of choice are Go Language, Java, PHP, and Python. I prefer to develop on frameworks that I know well and I am more comfortable with, unless the project demands otherwise. Such frameworks include Revel (Go), Buffalo (Go), Spring (Java), CodeIgniter (PHP), and Django (Python). 
