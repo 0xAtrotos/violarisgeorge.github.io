@@ -1,5 +1,3 @@
-
-
 > This page is my home on the internet. I am a security engineer, sysadmin and programmer, decentralization and cryptocurrency lover, cypherpunk wannabe, and cryptography student [#golang](https://twitter.com/search?q=%23golang&src=typd) [#bitcoin](https://twitter.com/search?q=%23bitcoin&src=typd) [#blockchain](https://twitter.com/search?q=%23blockchain&src=tyah) [#p2p](https://twitter.com/search?q=%23p2p&src=typd) [#privacy](https://twitter.com/search?q=%23privacy&src=typd). 
 
 - ### [Read the InfoSec Digest](https://paper.li/ViolarisGeorge/1521979641#/)
