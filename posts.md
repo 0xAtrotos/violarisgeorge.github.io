@@ -13,3 +13,5 @@
 - 08/07/2014 » [Enigneering Secure Online Banking](engineering-secure-online-banking.html#engineering-secure-online-banking)
 
 - 10/02/2012 » [Network Management Overview](network-management-overview.html#network-management-overview)
+
+- 27/04/2010 » [Strong AI and the Dunning-Kruger Effect](strongai.html#strong-ai-and-the-dunning-kruger-effect)
